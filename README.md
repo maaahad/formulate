@@ -14,3 +14,5 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+## GraphQL API
+[SpaceX](https://api.spacex.land/graphql/)
